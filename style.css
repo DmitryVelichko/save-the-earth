@@ -35,5 +35,6 @@ section header {
 
 section header .logo {
     position: relative;
-    
+    font-size: 1.5em;
+    color: #fff;
 }
