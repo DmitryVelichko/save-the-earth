@@ -50,5 +50,6 @@ section header .toggle {
     height: 40px;
     background-size: 30px;
     background-repeat: no-repeat;
-   
+    background-position: center;
+    cursor: pointer;
 }
