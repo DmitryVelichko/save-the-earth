@@ -42,3 +42,8 @@ section header .logo {
     text-decoration: none;
     letter-spacing: 1px;
 }
+
+section header .toggle {
+    position: relative;
+    width: 40px;
+}
