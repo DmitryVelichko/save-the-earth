@@ -21,3 +21,8 @@ section {
     align-items: center;
     padding: 100px 150px;
 }
+
+section header {
+    position: absolute;
+    top: 0;
+}
