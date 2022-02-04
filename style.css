@@ -19,7 +19,7 @@ section {
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  padding: 100px 150px;
+  padding: 100px;
 }
 
 section header {
@@ -30,4 +30,10 @@ section header {
   padding: 40px 100px;
   display: flex;
   justify-content: space-between;
+  align-items: center;
+}
+
+section header .logo {
+    position: relative;
+    
 }
