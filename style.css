@@ -71,3 +71,13 @@ section header .toggle {
   right: 100px;
   max-height: 80%;
 }
+
+.content {
+  position: relative;
+  z-index: 10;
+  max-width: 600px;
+}
+
+.content h2 {
+  font-size: 3.5em;
+}
