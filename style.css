@@ -87,4 +87,10 @@ section header .toggle {
 .content h2 span {
   font-weight: 800;
   font-size: 3.5em;
+  letter-spacing: 5px;
+}
+
+.content p {
+  color: #fff;
+  margin-top: -15px;
 }
