@@ -53,3 +53,9 @@ section header .toggle {
     background-position: center;
     cursor: pointer;
 }
+
+.bg {
+    position: absolute;
+    bottom: 0;
+    
+}
