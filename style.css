@@ -64,3 +64,8 @@ section header .toggle {
     object-fit: cover;
     background-position: center;
 }
+
+.bird {
+  position: absolute;
+  bottom: 0;
+}
