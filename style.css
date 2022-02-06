@@ -106,3 +106,8 @@ section header .toggle {
   font-weight: 600;
   letter-spacing: 2px;
 }
+
+.sci {
+  position: absolute;
+  top:50%;
+}
