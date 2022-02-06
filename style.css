@@ -102,4 +102,6 @@ section header .toggle {
   color: #000;
   text-decoration: none;
   text-transform: uppercase;
+  margin-top: 20px;
+  font-weight: 600;
 }
