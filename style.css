@@ -133,4 +133,9 @@ section header .toggle {
 .textBlocks {
   position: absolute;
   bottom: 0;
+  display: flex;
+}
+
+.textBlocks .block {
+  position: relative;
 }
