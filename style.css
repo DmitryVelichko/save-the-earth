@@ -130,3 +130,7 @@ section header .toggle {
   transform: scale(0.5);
 }
 
+.textBlocks {
+  position: absolute;
+  bottom: 0;
+}
