@@ -138,4 +138,6 @@ section header .toggle {
 
 .textBlocks .block {
   position: relative;
+  padding: 20px;
+  margin-right: 40px;
 }
