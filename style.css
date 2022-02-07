@@ -124,3 +124,8 @@ section header .toggle {
 .sci li {
   list-style: none;
 }
+
+.sci li a {
+  display: inline-block;
+  transform: scale(0.5);
+}
