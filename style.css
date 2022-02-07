@@ -120,3 +120,7 @@ section header .toggle {
   padding: 20px;
   background: #fff;
 }
+
+.sci li {
+  list-style: none;
+}
