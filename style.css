@@ -74,7 +74,8 @@ section header .toggle {
 }
 
 .content {
-  position: relative;
+  position: absolute;
+  left: 100px;
   z-index: 10;
   max-width: 600px;
 }
