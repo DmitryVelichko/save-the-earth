@@ -84,6 +84,7 @@ section header .toggle {
   font-size: 3.5em;
   color: #fff;
   font-weight: 400;
+  line-height: 2em;
 }
 
 .content h2 span {
